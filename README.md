@@ -1,3 +1,3 @@
 # hello-world
-first use
+Second learning
 make some changes
